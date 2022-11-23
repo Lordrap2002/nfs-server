@@ -62,7 +62,7 @@ En el cliente:
 
 `systemctl mask rpcbind`
 
-``apt-get install vim -y`
+`apt-get install vim -y`
 
 `mkdir /home/datos1`
 
