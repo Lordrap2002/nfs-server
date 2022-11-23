@@ -4,8 +4,6 @@ En el host:
 
 `apt update`
 
-`apt install sudo`
-
 `sudo apt install nfs-kernel-server -y`
 
 `sudo apt install rpcbind`
